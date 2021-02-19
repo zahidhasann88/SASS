@@ -165,10 +165,10 @@
 }
 
 .hero__container--left p {
-  font-size: 2rem;
+  font-size: 1rem;
   color: #222121;
   margin-top: 1rem;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @media screen and (max-width: 280px) {
@@ -222,6 +222,6 @@
 
 .hero__container--img {
   height: 100%;
-  width: 100%;
+  width: 300px;
 }
 /*# sourceMappingURL=styles.css.map */
